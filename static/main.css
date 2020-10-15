@@ -25,6 +25,18 @@ header {
 	font-size: 2em;
 }
 
+.buttonb {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.acartsize {
+  font-size: 2rem;
+}
+
+.bcartsize {
+  margin-left: 2%;
+}
+
 .content-pane {
   padding: 40px;
 }
